@@ -8,6 +8,6 @@ javascript:(function(){
 */
 //Carykh minesweeper classic skin - Gankuro(TheRedArmy)
 bgColor = "#bfbebb";
-buttonColor = "9E9E9E";
+buttonColor = "#9E9E9E";
 	
 })();
