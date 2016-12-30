@@ -33,6 +33,12 @@ function keyDown(){
 				if(pos == 1){
 				   tileColor = tileColor.concat(colors.charAt((i*6)+x));
 				}
+				if(pos == 2){
+				   textColors[0] = textColors[0].concat(colors.charAt((i*6)+x);
+				}
+				if(pos == 3){
+					   
+				}
 			}
 			pos++;
 		}
