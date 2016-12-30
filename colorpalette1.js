@@ -12,6 +12,7 @@ alert("you have launched Palettes for minesweeper, this program was made by gank
 var colors; //= prompt("Paste code for palette here")
 var pos = 0;
 //classic palette code: bfbebbA0A0A0000000000000C0000000A0009E9E9E#FF00000040FF008000FF0000000080800080008080606060000000
+	//bfbebbA0A0A0000000000000C0000000A0009E9E9E
 document.onkeydown = keyDown;
 function keyDown(){
 	event = event || window.event;
