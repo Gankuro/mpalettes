@@ -34,46 +34,46 @@ function keyDown(){
 				   tileColor = tileColor.concat(colors.charAt((i*6)+x));
 				}
 				if(pos == 2){
-				   textColors[0] = textColors[0].concat(colors.charAt((i*6)+x);
+				   textColors[0] = textColors[0].concat(colors.charAt((i*6)+x));
 				}
 				if(pos == 3){
-				   textColors[1] = textColors[1].concat(colors.charAt((i*6)+x);   
+				   textColors[1] = textColors[1].concat(colors.charAt((i*6)+x));   
 				}
 				if(pos == 4){
-				   textColors[2] = textColors[2].concat(colors.charAt((i*6)+x);
+				   textColors[2] = textColors[2].concat(colors.charAt((i*6)+x));
 				}
 				if(pos==5){
-				   textColors[3] = textColors[3].concat(colors.charAt((i*6)+x);
+				   textColors[3] = textColors[3].concat(colors.charAt((i*6)+x));
 				}
 				if(pos==6){
-				   buttonColor = buttonColor.concat(colors.charAt((i*6)+x);
+				   buttonColor = buttonColor.concat(colors.charAt((i*6)+x));
 				}
 				if(pos == 7){
-				   deathColor = deathColor.concat(colors.charAt((i*6)+x);	   
+				   deathColor = deathColor.concat(colors.charAt((i*6)+x));	   
 				}
 				if(pos==8){
-				   numberColors[1] = numberColors[1].concat(colors.charAt((i*6)+x);				  
+				   numberColors[1] = numberColors[1].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==9){
-				   numberColors[2] = numberColors[2].concat(colors.charAt((i*6)+x);				  
+				   numberColors[2] = numberColors[2].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==10){
-				   numberColors[3] = numberColors[3].concat(colors.charAt((i*6)+x);				  
+				   numberColors[3] = numberColors[3].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==11){
-				   numberColors[4] = numberColors[4].concat(colors.charAt((i*6)+x);				  
+				   numberColors[4] = numberColors[4].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==12){
-				   numberColors[5] = numberColors[5].concat(colors.charAt((i*6)+x);				  
+				   numberColors[5] = numberColors[5].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==13){
-				   numberColors[6] = numberColors[6].concat(colors.charAt((i*6)+x);				  
+				   numberColors[6] = numberColors[6].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==14){
-				   numberColors[7] = numberColors[7].concat(colors.charAt((i*6)+x);				  
+				   numberColors[7] = numberColors[7].concat(colors.charAt((i*6)+x));				  
 				}
 				if(pos==15){
-				   numberColors[8] = numberColors[8].concat(colors.charAt((i*6)+x);				  
+				   numberColors[8] = numberColors[8].concat(colors.charAt((i*6)+x));				  
 				}
 			}
 			pos++;
