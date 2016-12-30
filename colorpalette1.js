@@ -11,8 +11,7 @@ javascript:(function(){
 alert("you have launched Palettes for minesweeper, this program was made by gankuro: press 1 to go to the guide, and press 2 to input a palette code");
 var colors; //= prompt("Paste code for palette here")
 var pos = 0;
-//classic palette code: bfbebbA0A0A0000000000000C0000000A0009E9E9E#FF00000040FF008000FF0000000080800080008080606060000000
-	//bfbebbA0A0A0000000000000C0000000A0009E9E9E
+//classic palette code: bfbebbA0A0A0000000000000C0000000A0009E9E9EFF00000040FF008000FF0000000080800080008080606060000000
 document.onkeydown = keyDown;
 function keyDown(){
 	event = event || window.event;
@@ -91,6 +90,7 @@ textColors = ["#000000","#000000","#C00000","#00A000"];
 buttonColor = "#9E9E9E";
 deathColor = "#FF0000";
 numberColors = [tileColor, "#0040FF","#008000","#FF0000","#000080","#800080","#008080","#606060","#000000"];
+bfbebbA0A0A0000000000000C0000000A0009E9E9EFF00000040FF008000FF0000000080800080008080606060000000
 */
 
 /*
