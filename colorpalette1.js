@@ -80,7 +80,7 @@ function keyDown(){
 		}
 	}
 	if(e==49){
-		window.open("https://cdn.rawgit.com/Gankuro/mpalettes/master/test.html");
+		window.open("https://rawgit.com/Gankuro/mpalettes/master/test.html");
 	}
 }
 /*
